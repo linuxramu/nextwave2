@@ -1,61 +1,90 @@
-# Fries & Bites 🍟🍔  
-**_Fast Food. Fast Service. Delicious Taste._**
-
-Welcome to **Fries & Bites**, your ultimate destination for crispy fries, juicy burgers, and indulgent snacks. Perfect for family meals, quick bites, or satisfying your midnight cravings.
+# 🍟 Fries & Bites  
 
 ---
 
-## 🌟 Why Choose Us?
-
-- **Fresh Ingredients**: Only the best for your plate.
-- **Speedy Service**: Quality food delivered fast.
-- **Affordable Prices**: Enjoy premium taste without breaking the bank.
+## 🏠 Home | 📝 Menu | 📍 Location | 🛒 Order | 💬 Contact  
 
 ---
 
-## 📋 Our Menu
-
-### **Fries 🍟**
-- Classic French Fries
-- Loaded Cheese Fries
-- Spicy Cajun Fries
-
-### **Burgers 🍔**
-- Double Cheeseburger
-- Veggie Delight Burger
-- BBQ Bacon Burger
-
-### **Snacks & More 🍗**
-- Chicken Nuggets
-- Mozzarella Sticks
-- Onion Rings
-
-> _Explore our full menu [here](#)._  
+![Header Image Placeholder](https://via.placeholder.com/1280x640 "Fries & Bites Header")
 
 ---
 
-## 📍 Visit Us  
+## Welcome to Fries & Bites!  
+_**Fast Food. Fast Service. Delicious Taste.**_  
 
-### Location:  
-📌 **123 Flavor Street, Tasty Town**  
+Fries & Bites is your ultimate destination for crispy fries, juicy burgers, and irresistible snacks. Whether you're grabbing a quick bite or indulging in comfort food, we’ve got you covered.  
+
+---
+
+## 📝 Menu  
+
+### **Fries 🍟**  
+- **Classic French Fries**  
+  Crispy golden fries served with your choice of dipping sauce.  
+  ![Placeholder Image](https://via.placeholder.com/300x200 "Classic French Fries")
+
+- **Loaded Cheese Fries**  
+  Topped with gooey cheese, bacon bits, and green onions.  
+  ![Placeholder Image](https://via.placeholder.com/300x200 "Loaded Cheese Fries")
+
+- **Spicy Cajun Fries**  
+  Coated in bold Cajun seasoning for a spicy kick.  
+  ![Placeholder Image](https://via.placeholder.com/300x200 "Spicy Cajun Fries")
+
+---
+
+### **Burgers 🍔**  
+- **Double Cheeseburger**  
+  Juicy beef patty, melted cheese, lettuce, and tomato on a toasted bun.  
+  ![Placeholder Image](https://via.placeholder.com/300x200 "Double Cheeseburger")
+
+- **Veggie Delight Burger**  
+  Packed with fresh vegetables and a plant-based patty.  
+  ![Placeholder Image](https://via.placeholder.com/300x200 "Veggie Delight Burger")
+
+- **BBQ Bacon Burger**  
+  Smoky BBQ sauce, crispy bacon, and melted cheddar cheese.  
+  ![Placeholder Image](https://via.placeholder.com/300x200 "BBQ Bacon Burger")
+
+---
+
+### **Snacks & More 🍗**  
+- **Chicken Nuggets**  
+  Bite-sized and perfectly seasoned.  
+  ![Placeholder Image](https://via.placeholder.com/300x200 "Chicken Nuggets")
+
+- **Mozzarella Sticks**  
+  Crispy on the outside, gooey on the inside.  
+  ![Placeholder Image](https://via.placeholder.com/300x200 "Mozzarella Sticks")
+
+- **Onion Rings**  
+  Sweet onions fried to golden perfection.  
+  ![Placeholder Image](https://via.placeholder.com/300x200 "Onion Rings")
+
+---
+
+## 📍 Location  
+
+**123 Flavor Street, Tasty Town**  
 🗺️ [Find us on Google Maps](#)
 
 ---
 
-## 🛵 Order Now!  
+## 🛒 Order Now  
 
-**Enjoy our food from the comfort of your home!**  
-📞 Call us: +1-800-FRIES  
-🌐 Online Orders: [www.friesandbites.cl](#)
+Get your favorites delivered right to your doorstep:  
+- **📞 Call Us**: +1-800-FRIES  
+- **🌐 Online Orders**: [www.friesandbites.cl](#)
 
 ---
 
-## 💬 Follow Us  
+## 💬 Contact Us  
 
-Stay updated with our latest deals and special offers:  
-- Instagram: [@friesandbites](#)  
-- Facebook: [Fries & Bites](#)  
-- Twitter: [@friesnbites](#)
+Follow us on social media to stay updated with the latest offers and promotions:  
+- **Instagram**: [@friesandbites](#)  
+- **Facebook**: [Fries & Bites](#)  
+- **Twitter**: [@friesnbites](#)  
 
 ---
 
