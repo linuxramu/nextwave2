@@ -1,91 +1,105 @@
-# 🍔 **Fries & Bites**  
+<!-- Include Bootstrap from a CDN -->
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
-**_Fast Food. Fast Service. Delicious Taste._**
+<!-- Page Header -->
+<h1 class="text-center py-4">🍔 Fries & Bites</h1>
+<p class="text-center lead">Fast Food. Fast Service. Delicious Taste.</p>
 
----
+<hr>
 
-<!-- Simulating a Navigation Bar -->
-<p align="center">
-  <a href="#welcome-to-fries--bites">🏠 Home</a> |
-  <a href="#menu">📝 Menu</a> |
-  <a href="#location">📍 Location</a> |
-  <a href="#order-now">🛒 Order</a> |
-  <a href="#contact-us">💬 Contact</a>
-</p>
+<!-- Navigation Bar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">Fries & Bites</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item active"><a class="nav-link" href="#home">Home</a></li>
+      <li class="nav-item"><a class="nav-link" href="#menu">Menu</a></li>
+      <li class="nav-item"><a class="nav-link" href="#location">Location</a></li>
+      <li class="nav-item"><a class="nav-link" href="#order-now">Order</a></li>
+      <li class="nav-item"><a class="nav-link" href="#contact-us">Contact</a></li>
+    </ul>
+  </div>
+</nav>
 
----
+<hr>
 
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1280x640" alt="Fries & Bites Banner" width="100%">
-</p>
+<div class="container text-center">
+  <img src="https://via.placeholder.com/1280x640" alt="Fries & Bites Banner" class="img-fluid my-4">
+</div>
 
----
+<!-- Welcome Section -->
+<div id="home" class="container text-center my-4">
+  <h2>👋 Welcome to Fries & Bites!</h2>
+  <p class="lead">Your ultimate destination for crispy fries, juicy burgers, and irresistible snacks.</p>
+</div>
 
-## 👋 Welcome to Fries & Bites!  
+<hr>
 
-**_Your ultimate destination for crispy fries, juicy burgers, and irresistible snacks._**
+<!-- Menu Section -->
+<div id="menu" class="container my-5">
+  <h2 class="text-center">📝 Menu</h2>
+  <div class="row mt-4">
+    <!-- Fries -->
+    <div class="col-md-4 text-center">
+      <h4>🍟 Fries</h4>
+      <ul class="list-unstyled">
+        <li>Classic French Fries</li>
+        <li>Loaded Cheese Fries</li>
+        <li>Spicy Cajun Fries</li>
+      </ul>
+      <img src="https://via.placeholder.com/300x200" alt="Fries" class="img-fluid">
+    </div>
+    <!-- Burgers -->
+    <div class="col-md-4 text-center">
+      <h4>🍔 Burgers</h4>
+      <ul class="list-unstyled">
+        <li>Double Cheeseburger</li>
+        <li>Veggie Delight Burger</li>
+        <li>BBQ Bacon Burger</li>
+      </ul>
+      <img src="https://via.placeholder.com/300x200" alt="Burgers" class="img-fluid">
+    </div>
+    <!-- Snacks -->
+    <div class="col-md-4 text-center">
+      <h4>🍗 Snacks & Sides</h4>
+      <ul class="list-unstyled">
+        <li>Chicken Nuggets</li>
+        <li>Mozzarella Sticks</li>
+        <li>Onion Rings</li>
+      </ul>
+      <img src="https://via.placeholder.com/300x200" alt="Snacks" class="img-fluid">
+    </div>
+  </div>
+</div>
 
-Enjoy delicious fast food made with fresh ingredients, served with speed and care. Whether it's a family meal, a quick bite, or a midnight snack, we’ve got you covered!  
+<hr>
 
----
+<!-- Location Section -->
+<div id="location" class="container text-center my-5">
+  <h2>📍 Location</h2>
+  <p>123 Flavor Street, Tasty Town</p>
+  <img src="https://via.placeholder.com/600x300" alt="Map Location" class="img-fluid">
+</div>
 
-## 📝 Menu  
+<hr>
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x400" alt="Fries Menu" width="45%"> &nbsp;
-  <img src="https://via.placeholder.com/600x400" alt="Burgers Menu" width="45%">
-</p>
+<!-- Order Section -->
+<div id="order-now" class="container text-center my-5">
+  <h2>🛒 Order Now</h2>
+  <p>Call us or place your order online!</p>
+  <p><strong>📞 Phone:</strong> +1-800-FRIES</p>
+  <p><strong>🌐 Online Orders:</strong> <a href="https://www.friesandbites.cl">www.friesandbites.cl</a></p>
+  <a href="https://www.friesandbites.cl" class="btn btn-warning btn-lg mt-2">Order Online</a>
+</div>
 
-### 🍟 **Fries**  
-- **Classic French Fries**: Crispy and golden.  
-- **Loaded Cheese Fries**: Topped with gooey cheese and bacon bits.  
-- **Spicy Cajun Fries**: Coated in bold Cajun seasoning.  
+<hr>
 
-### 🍔 **Burgers**  
-- **Double Cheeseburger**: Juicy beef patty with melted cheese.  
-- **Veggie Delight Burger**: Packed with fresh vegetables and plant-based goodness.  
-- **BBQ Bacon Burger**: Smoky BBQ sauce, crispy bacon, and cheddar cheese.  
-
-### 🍗 **Snacks & Sides**  
-- **Chicken Nuggets**  
-- **Mozzarella Sticks**  
-- **Onion Rings**  
-
----
-
-## 📍 Location  
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Map Location" width="75%">
-</p>
-
-**123 Flavor Street, Tasty Town**  
-🗺️ [Find us on Google Maps](#)
-
----
-
-## 🛒 Order Now  
-
-**Order online or call us directly!**  
-- 📞 **Phone**: +1-800-FRIES  
-- 🌐 **Online Orders**: [www.friesandbites.cl](#)
-
-<p align="center">
-  <a href="https://www.friesandbites.cl" style="display: inline-block; padding: 10px 20px; background-color: #ff9800; color: white; border-radius: 5px; text-decoration: none;">Order Online</a>
-</p>
-
----
-
-## 💬 Contact Us  
-
-Follow us for exclusive offers and updates:  
-- 📸 **Instagram**: [@friesandbites](#)  
-- 👍 **Facebook**: [Fries & Bites](#)  
-- 🐦 **Twitter**: [@friesnbites](#)  
-
----
-
-<p align="center">
-  &copy; 2024 Fries & Bites. All rights reserved.
-</p>
+<!-- Contact Section -->
+<div id="contact-us" class="container text-center my-5">
+  <h2>💬 Contact Us</h2>
+  <p>Follow us for exclusive offers and updates:</p>
+  <p><a href="#">Instagram</a> | <a href="#">Facebook</a> | <a
