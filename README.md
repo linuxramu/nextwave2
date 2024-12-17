@@ -1,11 +1,3 @@
-# 🍔 **FRIES & BITES**
+# Welcome to Fries & Bites
 
----
-
-## Navigation
-
-| [🏠 Home](#home) | [📖 Menu](#menu) | [📍 Location](#location) | [📞 Contact](#contact) |
-|------------------|-----------------|-------------------------|------------------------|
-
----
-
+[View Our Website](./index.html)
